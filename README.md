@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nwachukwuoparah
 - 👀 I’m interested in building  better softwares 
 - 🌱 I’m currently learning javascript,html&&css
-- 💞️ I’m looking to collaborate with some of this greatest minds 
+- 💞️ I’m looking to collaborate with some of the greatest minds 
 - 📫 nwachukwuoparah@gmail.com
 -     09063560921
 
