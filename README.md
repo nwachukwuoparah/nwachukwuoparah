@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @nwachukwuoparah
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in building  better softwares 
+- 🌱 I’m currently learning javascript,html&&css
+- 💞️ I’m looking to collaborate with some of this greatest minds 
+- 📫 nwachukwuoparah@gmail.com
+-     09063560921
 
 <!---
 nwachukwuoparah/nwachukwuoparah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
